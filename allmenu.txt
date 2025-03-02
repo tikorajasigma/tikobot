@@ -1,0 +1,203 @@
+➤ 🤖 *𝙱𝚘𝚝 𝙸𝚗𝚏𝚘*
+> ♦︎ *𝙽𝚊𝚖𝚊 𝙱𝚘𝚝* : ${botname}
+> ♦︎ *𝙾𝚠𝚗𝚎𝚛* : @6289530285149
+> ♦︎ *𝙼𝚘𝚍𝚎* : ${mode}
+
+➤ 👤 *𝚄𝚜𝚎𝚛 𝙸𝚗𝚏𝚘*
+> ♦︎ *𝙽𝚊𝚖𝚊* : ${pushName}
+> ♦︎ *𝚄𝚜𝚎𝚛* : ${userType}
+> ♦︎ *𝙻𝚒𝚖𝚒𝚝* : ${limit}
+> ♦︎ *𝚄𝚊𝚗𝚐* : ${uang}
+
+➤ 🗓️ *𝙰𝚋𝚘𝚞𝚝*
+> ♦︎ *𝙷𝚊𝚛𝚒* : ${hari}
+> ♦︎ *𝚃𝚊𝚗𝚐𝚐𝚊𝚕* : ${tanggal}
+> ♦︎ *𝙹𝚊𝚖* : ${jam} WIB
+
+➤ 🔥 *𝙿𝚘𝚙𝚞𝚕𝚊𝚛*
+> ❯ ${prefix}𝚜𝚝𝚒𝚌𝚔𝚎𝚛
+> ❯ ${prefix}𝚋𝚛𝚊𝚝
+> ❯ ${prefix}𝚋𝚛𝚊𝚝𝚟𝚒𝚍
+> ❯ ${prefix}𝚑𝚍
+> ❯ ${prefix}𝚝𝚒𝚔𝚝𝚘𝚔
+> ❯ ${prefix}𝚒𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖
+> ❯ ${prefix}𝚏𝚊𝚌𝚎𝚋𝚘𝚘𝚔
+> ❯ ${prefix}𝚜𝚙𝚘𝚝𝚒𝚏𝚢𝚍𝚕
+> ❯ ${prefix}𝚢𝚝𝚖𝚙𝟹
+> ❯ ${prefix}𝚢𝚝𝚖𝚙𝟺
+
+➤ 👑 *𝙿𝚛𝚎𝚖𝚒𝚞𝚖 𝙼𝚎𝚗𝚞*
+> ❯ ${prefix}𝚐𝚊𝚖𝚋𝚊𝚛
+> ❯ ${prefix}𝚓𝚊𝚍𝚒𝚋𝚘𝚝
+
+➤ 🎮 *𝙶𝚊𝚖𝚎𝚜 𝙼𝚎𝚗𝚞*
+> ❯ ${prefix}𝚝𝚎𝚋𝚊𝚔𝚗𝚎𝚐𝚊𝚛𝚊
+> ❯ ${prefix}𝚝𝚎𝚋𝚊𝚔𝚋𝚎𝚗𝚍𝚎𝚛𝚊
+> ❯ ${prefix}𝚝𝚎𝚋𝚊𝚔𝚐𝚊𝚖𝚋𝚊𝚛
+> ❯ ${prefix}𝚝𝚎𝚋𝚊𝚔𝚊𝚗𝚐𝚔𝚊
+> ❯ ${prefix}𝚝𝚎𝚋𝚊𝚔𝚔𝚊𝚝𝚊
+> ❯ ${prefix}𝚝𝚎𝚋𝚊𝚔𝚋𝚘𝚖
+> ❯ ${prefix}𝚝𝚎𝚋𝚊𝚔𝚕𝚒𝚛𝚒𝚔
+> ❯ ${prefix}𝚝𝚎𝚋𝚊𝚔𝚔𝚒𝚖𝚒𝚊
+> ❯ ${prefix}𝚌𝚊𝚔𝚕𝚘𝚗𝚝𝚘𝚗𝚐
+> ❯ ${prefix}𝚌𝚊𝚜𝚒𝚗𝚘
+> ❯ ${prefix}𝚜𝚕𝚘𝚝
+> ❯ ${prefix}𝚖𝚊𝚝𝚑
+> ❯ ${prefix}𝚋𝚎𝚐𝚊𝚕
+> ❯ ${prefix}𝚛𝚊𝚖𝚙𝚘𝚔
+> ❯ ${prefix}𝚝𝚎𝚔𝚊𝚝𝚎𝚔𝚒
+> ❯ ${prefix}𝚜𝚞𝚜𝚞𝚗𝚔𝚊𝚝𝚊
+> ❯ ${prefix}𝚊𝚔𝚒𝚗𝚊𝚝𝚘𝚛
+> ❯ ${prefix}𝚝𝚒𝚌𝚝𝚊𝚌𝚝𝚘𝚎
+> ❯ ${prefix}𝚜𝚞𝚒𝚝
+
+➤ 🧰 *𝚃𝚘𝚘𝚕𝚜 𝙼𝚎𝚗𝚞*
+> ❯ ${prefix}𝚝𝚘𝚖𝚙𝟹
+> ❯ ${prefix}𝚝𝚘𝚊𝚞𝚍𝚒𝚘
+> ❯ ${prefix}𝚝𝚘𝚒𝚖𝚊𝚐𝚎
+> ❯ ${prefix}𝚝𝚘𝚟𝚗
+> ❯ ${prefix}𝚝𝚘𝚙𝚝𝚟
+> ❯ ${prefix}𝚝𝚘𝚞𝚛𝚕
+> ❯ ${prefix}toqr
+> ❯ ${prefix}𝚐𝚎𝚝
+> ❯ ${prefix}𝚑𝚍
+> ❯ ${prefix}𝚝𝚝𝚜
+> ❯ ${prefix}𝚜𝚜𝚠𝚎𝚋
+> ❯ ${prefix}𝚛𝚎𝚊𝚍𝚖𝚘𝚛𝚎
+> ❯ ${prefix}𝚝𝚛𝚊𝚗𝚜𝚕𝚊𝚝𝚎
+> ❯ ${prefix}𝚜𝚝𝚒𝚌𝚔𝚎𝚛
+> ❯ ${prefix}𝚜𝚖𝚎𝚖𝚎
+> ❯ ${prefix}𝚌𝚘𝚕𝚘𝚗𝚐
+> ❯ ${prefix}𝚚𝚌
+> ❯ ${prefix}𝚠𝚊𝚜𝚝𝚎𝚍
+> ❯ ${prefix}𝚝𝚛𝚒𝚐𝚐𝚎𝚛𝚎𝚍
+> ❯ ${prefix}𝚎𝚖𝚘𝚓𝚒𝚖𝚒𝚡
+> ❯ ${prefix}𝚜𝚑𝚘𝚛𝚝𝚞𝚛𝚕
+> ❯ ${prefix}𝚐𝚒𝚝𝚌𝚕𝚘𝚗𝚎
+> ❯ ${prefix}𝚐𝚎𝚝𝚎𝚡𝚒𝚏
+
+➤ 🎧 *𝙰𝚞𝚍𝚒𝚘  𝙼𝚎𝚗𝚞*
+> ❯ ${prefix}𝚏𝚊𝚝
+> ❯ ${prefix}𝚏𝚊𝚜𝚝
+> ❯ ${prefix}𝚋𝚊𝚜𝚜
+> ❯ ${prefix}𝚜𝚕𝚘𝚠
+> ❯ ${prefix}𝚝𝚞𝚙𝚊𝚒
+> ❯ ${prefix}𝚍𝚎𝚎𝚙
+> ❯ ${prefix}𝚛𝚘𝚋𝚘𝚝
+> ❯ ${prefix}𝚋𝚕𝚘𝚠𝚗
+> ❯ ${prefix}𝚛𝚎𝚟𝚎𝚛𝚜𝚎
+> ❯ ${prefix}𝚜𝚖𝚘𝚘𝚝𝚑
+> ❯ ${prefix}𝚎𝚊𝚛𝚛𝚊𝚙𝚎
+> ❯ ${prefix}𝚗𝚒𝚐𝚑𝚝𝚌𝚘𝚛𝚎
+
+➤ ⬇️ *𝙳𝚘𝚠𝚗𝚕𝚘𝚊𝚍 𝙼𝚎𝚗𝚞*
+> ❯ ${prefix}𝚢𝚝𝚖𝚙𝟹
+> ❯ ${prefix}𝚢𝚝𝚖𝚙𝟺
+> ❯ ${prefix}𝚝𝚒𝚔𝚝𝚘𝚔
+> ❯ ${prefix}𝚒𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖
+> ❯ ${prefix}𝚏𝚊𝚌𝚎𝚋𝚘𝚘𝚔
+> ❯ ${prefix}𝚜𝚙𝚘𝚝𝚒𝚏𝚢𝚍𝚕
+> ❯ ${prefix}𝚖𝚎𝚍𝚒𝚊𝚏𝚒𝚛𝚎
+
+➤ 🔎 *𝚂𝚎𝚊𝚛𝚌𝚑 𝙼𝚎𝚗𝚞*
+> ❯ ${prefix}𝚐𝚘𝚘𝚐𝚕𝚎
+> ❯ ${prefix}𝚐𝚒𝚖𝚊𝚐𝚎
+> ❯ ${prefix}𝚢𝚝𝚜𝚎𝚊𝚛𝚌𝚑
+> ❯ ${prefix}𝚙𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝
+> ❯ ${prefix}𝚙𝚒𝚡𝚒𝚟
+> ❯ ${prefix}𝚠𝚊𝚕𝚕𝚙𝚊𝚙𝚎𝚛
+> ❯ ${prefix}𝚛𝚒𝚗𝚐𝚝𝚘𝚗𝚎
+> ❯ ${prefix}𝚗𝚙𝚖
+> ❯ ${prefix}𝚜𝚝𝚢𝚕𝚎
+> ❯ ${prefix}𝚌𝚞𝚊𝚌𝚊
+
+➤ 👾 *𝙱𝚘𝚝 𝙼𝚎𝚗𝚞*
+> ❯ ${prefix}𝚙𝚛𝚘𝚏𝚒𝚕𝚎
+> ❯ ${prefix}𝚌𝚕𝚊𝚒𝚖
+> ❯ ${prefix}𝚋𝚞𝚢
+> ❯ ${prefix}𝚝𝚛𝚊𝚗𝚜𝚏𝚎𝚛
+> ❯ ${prefix}𝚕𝚎𝚊𝚍𝚎𝚛𝚋𝚘𝚊𝚛𝚍
+> ❯ ${prefix}𝚛𝚎𝚚𝚞𝚎𝚜𝚝
+> ❯ ${prefix}𝚛𝚎𝚊𝚌𝚝
+> ❯ ${prefix}𝚝𝚊𝚐𝚖𝚎
+> ❯ ${prefix}𝚛𝚞𝚗𝚝𝚒𝚖𝚎
+> ❯ ${prefix}𝚝𝚘𝚝𝚊𝚕𝚏𝚒𝚝𝚞𝚛
+> ❯ ${prefix}𝚙𝚒𝚗𝚐
+> ❯ ${prefix}𝚊𝚏𝚔
+> ❯ ${prefix}𝚛𝚟𝚘
+> ❯ ${prefix}𝚒𝚗𝚜𝚙𝚎𝚌𝚝
+> ❯ ${prefix}𝚊𝚍𝚍𝚖𝚜𝚐
+> ❯ ${prefix}𝚍𝚎𝚕𝚖𝚜𝚐
+> ❯ ${prefix}𝚐𝚎𝚝𝚖𝚜𝚐
+> ❯ ${prefix}𝚕𝚒𝚜𝚝𝚖𝚜𝚐
+> ❯ ${prefix}𝚚
+> ❯ ${prefix}𝚖𝚎𝚗𝚏𝚎𝚜
+> ❯ ${prefix}𝚓𝚊𝚍𝚒𝚋𝚘𝚝
+> ❯ ${prefix}𝚜𝚝𝚘𝚙𝚓𝚊𝚍𝚒𝚋𝚘𝚝
+> ❯ ${prefix}𝚕𝚒𝚜𝚝𝚓𝚊𝚍𝚒𝚋𝚘𝚝
+> ❯ ${prefix}𝚍𝚘𝚗𝚊𝚜𝚒
+
+➤ 👥 *𝙶𝚛𝚘𝚞𝚙 𝙼𝚎𝚗𝚞*
+> ❯ ${prefix}𝚊𝚍𝚍
+> ❯ ${prefix}𝚔𝚒𝚌𝚔
+> ❯ ${prefix}𝚙𝚛𝚘𝚖𝚘𝚝𝚎
+> ❯ ${prefix}𝚍𝚎𝚖𝚘𝚝𝚎
+> ❯ ${prefix}𝚜𝚎𝚝𝚗𝚊𝚖𝚎
+> ❯ ${prefix}𝚜𝚎𝚝𝚍𝚎𝚜𝚌
+> ❯ ${prefix}𝚜𝚎𝚝𝚙𝚙𝚐𝚌
+> ❯ ${prefix}𝚍𝚎𝚕𝚎𝚝𝚎
+> ❯ ${prefix}𝚕𝚒𝚗𝚔𝚐𝚛𝚞𝚙
+> ❯ ${prefix}𝚛𝚎𝚟𝚘𝚔𝚎
+> ❯ ${prefix}𝚝𝚊𝚐𝚊𝚕𝚕
+> ❯ ${prefix}𝚑𝚒𝚍𝚎𝚝𝚊𝚐
+> ❯ ${prefix}𝚝𝚘𝚝𝚊𝚐
+> ❯ ${prefix}𝚕𝚒𝚜𝚝𝚘𝚗𝚕𝚒𝚗𝚎
+> ❯ ${prefix}𝚐𝚛𝚘𝚞𝚙
+
+❯ 🎉 *𝙵𝚞𝚗 𝙼𝚎𝚗𝚞*
+> ❯ ${prefix}𝚍𝚊𝚍𝚞
+> ❯ ${prefix}𝚋𝚒𝚜𝚊𝚔𝚊𝚑
+> ❯ ${prefix}𝚊𝚙𝚊𝚔𝚊𝚑
+> ❯ ${prefix}𝚔𝚊𝚙𝚊𝚗
+> ❯ ${prefix}𝚔𝚎𝚛𝚊𝚗𝚐𝚊𝚓𝚊𝚒𝚋
+> ❯ ${prefix}𝚌𝚎𝚔𝚖𝚊𝚝𝚒
+> ❯ ${prefix}𝚌𝚎𝚔𝚜𝚒𝚏𝚊𝚝
+> ❯ ${prefix}𝚌𝚎𝚔𝚔𝚑𝚘𝚍𝚊𝚖
+> ❯ ${prefix}𝚛𝚊𝚝𝚎
+> ❯ ${prefix}𝚓𝚘𝚍𝚘𝚑𝚔𝚞
+> ❯ ${prefix}𝚓𝚊𝚍𝚒𝚊𝚗
+> ❯ ${prefix}𝚏𝚒𝚝𝚗𝚊𝚑
+> ❯ ${prefix}𝚑𝚊𝚕𝚊𝚑
+> ❯ ${prefix}𝚑𝚒𝚕𝚒𝚑
+> ❯ ${prefix}𝚑𝚞𝚕𝚞𝚑
+> ❯ ${prefix}𝚑𝚎𝚕𝚎𝚑
+> ❯ ${prefix}𝚑𝚘𝚕𝚘𝚑
+> ❯ ${prefix}𝚖𝚘𝚝𝚒𝚟𝚊𝚜𝚒
+> ❯ ${prefix}𝚚𝚞𝚘𝚝𝚎𝚜
+> ❯ ${prefix}𝚝𝚛𝚞𝚝𝚑
+> ❯ ${prefix}𝚛𝚎𝚗𝚞𝚗𝚐𝚊𝚗
+
+➤ ⭐ *𝙾𝚠𝚗𝚎𝚛 𝙼𝚎𝚗𝚞*
+> ❯ ${prefix}𝚋𝚘𝚝
+> ❯ ${prefix}𝚜𝚎𝚝𝚋𝚒𝚘
+> ❯ ${prefix}𝚜𝚎𝚝𝚙𝚙𝚋𝚘𝚝
+> ❯ ${prefix}𝚓𝚘𝚒𝚗
+> ❯ ${prefix}𝚕𝚎𝚊𝚟𝚎
+> ❯ ${prefix}𝚋𝚕𝚘𝚌𝚔
+> ❯ ${prefix}𝚕𝚒𝚜𝚝𝚋𝚕𝚘𝚌𝚔
+> ❯ ${prefix}𝚘𝚙𝚎𝚗𝚋𝚕𝚘𝚌𝚔
+> ❯ ${prefix}𝚕𝚒𝚜𝚝𝚙𝚌
+> ❯ ${prefix}𝚕𝚒𝚜𝚝𝚐𝚌
+> ❯ ${prefix}𝚌𝚛𝚎𝚊𝚝𝚎𝚐𝚌
+> ❯ ${prefix}𝚊𝚍𝚍𝚙𝚛𝚎𝚖
+> ❯ ${prefix}𝚍𝚎𝚕𝚙𝚛𝚎𝚖
+> ❯ ${prefix}𝚕𝚒𝚜𝚝𝚙𝚛𝚎𝚖
+> ❯ ${prefix}𝚊𝚍𝚍𝚕𝚒𝚖𝚒𝚝
+> ❯ ${prefix}𝚊𝚍𝚍𝚞𝚊𝚗𝚐
+> ❯ ${prefix}𝚋𝚘𝚝
+> ❯ ${prefix}𝚐𝚎𝚝𝚜𝚎𝚜𝚜𝚒𝚘𝚗
+> ❯ ${prefix}𝚍𝚎𝚕𝚜𝚎𝚜𝚜𝚒𝚘𝚗
+> ❯ ${prefix}𝚍𝚎𝚕𝚜𝚊𝚖𝚙𝚊𝚑
+> ❯ ${prefix}𝚞𝚙𝚜𝚠
+
+Ⓒ Tiko Bot
